@@ -156,3 +156,13 @@ background: #ff7c7c;
 .selected .app-form__input::placeholder{
 	color: #438b05!important;
 }
+.header-zakaz__callback .phone{
+    font-size: 17px;
+    margin-bottom: 10px;
+    display: block;
+    color: #438b05;
+    font-weight: 900;	
+}
+
+
+
